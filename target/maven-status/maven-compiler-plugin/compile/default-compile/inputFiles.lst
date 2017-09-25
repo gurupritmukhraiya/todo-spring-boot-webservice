@@ -1,0 +1,11 @@
+D:\work\projects\todo-service\src\main\java\com\app\todo\entity\Note.java
+D:\work\projects\todo-service\src\main\java\com\app\todo\repository\TodoRepository.java
+D:\work\projects\todo-service\src\main\java\com\app\todo\service\NoteService.java
+D:\work\projects\todo-service\src\main\java\com\app\todo\entity\Task.java
+D:\work\projects\todo-service\src\main\java\com\app\todo\controller\NoteController.java
+D:\work\projects\todo-service\src\main\java\com\app\todo\controller\TodoController.java
+D:\work\projects\todo-service\src\main\java\com\app\todo\repository\NoteRepository.java
+D:\work\projects\todo-service\src\main\java\com\app\todo\service\TodoService.java
+D:\work\projects\todo-service\src\main\java\com\app\todo\TodoServiceApplication.java
+D:\work\projects\todo-service\src\main\java\com\app\todo\entity\Todo.java
+D:\work\projects\todo-service\src\main\java\com\app\todo\entity\STATUS.java

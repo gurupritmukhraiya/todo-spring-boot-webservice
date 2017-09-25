@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: todo-service
+Implementation-Version: 1
+Built-By: Admin
+Implementation-Vendor-Id: technotronics
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/todo-service
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
